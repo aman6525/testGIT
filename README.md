@@ -1,4 +1,4 @@
 # testGIT
 
 
-1. Changing user.email in local
+Changing user.email in local
